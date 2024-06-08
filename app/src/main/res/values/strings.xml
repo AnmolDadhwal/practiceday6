@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">day6</string>
+    <string name="Login">Login\n</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_passward">"Enter your passward "</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="Next">Next</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="You_are_doing_kotlin">You are doing kotlin</string>
+    <string name="Back">Back</string>
+</resources>
