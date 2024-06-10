@@ -27,10 +27,11 @@ class MainActivity2 : AppCompatActivity() {
         }
         back?.setOnClickListener {
             this.finish()
-        }}
-      override fun onDestroy() {
+        }
+    }
+    override fun onDestroy() {
         super.onDestroy()
         Toast.makeText(this, "activity destroy", Toast.LENGTH_SHORT).show()
     }
-    }
+}
 
